@@ -43,13 +43,13 @@ Chief Marketing Officer
 
 ### a. Who prefers energy drink more? (male/female/non-binary?)
 * Majority of consumers are Male gender.
-* 60.38% of Consumers are Male and 34.55% Consumers are Male remaining Non-binary.
+* 60.38% of Consumers are Male and 34.55% of Consumers are Male remaining Non-binary.
 
   ![{ED19D4D3-937D-4EDF-90AD-567EDEEBE729}](https://github.com/user-attachments/assets/f1a5577e-31f6-47a8-b1c9-c931bf6b7ea2)
 
 
 ### b. Which age group prefers energy drinks more?
-* Age group between  19-30  prefers energy drinks more.
+* The age group between  19-30  prefers energy drinks more.
 * 55.20% of consumers are between 19-30,23.76% of consumers are between 31-45,14.88% of consumers are between 15-18,4.26% of consumers are between 46-65 and remaing are 65+ age group.
 
   ![{435442E0-250F-410C-83AB-1DD804C84605}](https://github.com/user-attachments/assets/9eaee9ff-f765-4225-8b01-9432a3f90ae4)
@@ -57,7 +57,7 @@ Chief Marketing Officer
 
 ### c. Which type of marketing reaches the most Youth (15-30)?
 * Online ads and TV commercials  reaches the most Youth (15-30).
-* Marketting channel preference of youth   
+* Marketing channel preference of youth   
     Online ads      -      48.13%        
     TV commercials    -    25.47%  
     Other              -   10.02%       
@@ -77,7 +77,7 @@ Chief Marketing Officer
 
 
 ### b. What packaging preferences do respondents have for energy drinks?
-* Compact and portable cans  and Innovative bottle designs are prefered by  39.84% and 30.47% of respondents.
+* Compact and portable cans  and Innovative bottle designs are preferred by  39.84% and 30.47% of respondents.
 
   ![{125A8F31-6DE9-42A9-A2A5-4C128A7FB25A}](https://github.com/user-attachments/assets/5634c34d-ea62-49a0-857b-895fdd2db3f8)
 
@@ -116,8 +116,8 @@ Chief Marketing Officer
 ## **5. Brand Penetration:**
 
 ### a. What do people think about  brands? (overall rating)
-* 59.74% have Neutral and 22.57% have Positive perceptions on brands.
-* 17.69% of respondents have Negative perception.
+* 59.74% have Neutral and 22.57% have Positive perceptions of brands.
+* 17.69% of respondents have Negative perceptions.
 
   ![{238E1639-189B-4B05-8244-D4A0B3AA499D}](https://github.com/user-attachments/assets/1c79612a-5ffa-4cda-aa17-d79152fcf605)
 
@@ -131,7 +131,7 @@ Chief Marketing Officer
 ## **6. Purchase Behavior**
 
 ### a. Where do respondents prefer to purchase energy drinks?
-* 44.94% customers prefer purchasing from Supermarkets and 25.50%  from Online retailers and 14.64% from Online retailers.
+* 44.94% of customers prefer purchasing from Supermarkets 25.50%  from Online retailers and 14.64% from Online retailers.
 
   ![{8D8BBC12-AE6D-4F2B-8D57-3A0BC0632120}](https://github.com/user-attachments/assets/90a1a12b-4855-43bd-a006-7ac0d240f60b)
 
@@ -144,8 +144,8 @@ Chief Marketing Officer
 
 
 ### c. What factors influence respondents' purchase decisions, such as price range and limited edition packaging?
-* 42.88% of consumers prefer energy drinks price between 50-99.
-* Only 39.46% of consumers intrested in limited edition packaging.
+* 42.88% of consumers prefer energy drinks priced between 50-99.
+* Only 39.46% of consumers interested in limited edition packaging.
 * Overall  price range influences more consumers.
 
   ![{956514FC-D148-4BB8-8DCE-E687C1F73C84}](https://github.com/user-attachments/assets/2b0ea2d7-4692-4a35-b685-90a1e2dc77cc)
@@ -156,9 +156,9 @@ Chief Marketing Officer
 ## **Consumer Behavior & Market Segmentation**
 
 ### 1.What are the key demographics (age, gender, city, city tier) of frequent consumers?
-* 736 consumers between age group 19-30 consume energy drinks on daily basis.
-* Male consumers perfer daily consumption.
-* Chennaim, Bangalore and Delhi markets have daily customers.
+* 736 consumers between the age group 19-30 consume energy drinks on daily basis.
+* Male consumers prefer daily consumption.
+* Chennai, Bangalore and Delhi markets have daily customers.
 * Tier1 city consumers are frequent consumers among the respondents.
 
   ![{033E96A0-2B8F-4118-8702-7B7421232306}](https://github.com/user-attachments/assets/a9604d32-5750-4d3e-87c8-41b1f143cb0d)
@@ -181,17 +181,17 @@ Chief Marketing Officer
 
 ### 4. Which marketing channels resonate best with different demographics?
 * Age group
-    - Most of the consumers between 15-18 and 19-30 resonate for Online ads.
-    - Rest of the consumers resonate for TV commercials.
+    - Most consumers between 15-18 and 19-30 resonate with online ads.
+    - Rest of the consumers resonate with TV commercials.
 * Gender
-    - Male and Female prefer Online adds.
-    - Non-binary people resonate for TV commercials.
+    - Male and Female prefer Online ads.
+    - Non-binary people resonate with TV commercials.
 * City
     - Bangalore,Hyderabad,Kolkata, and Chennai resonate for Online ads.
     - Ahmedabad, Delhi,Jaipur,Lucknow,Mumbai and Pune  for TV commercials.
 * City Tier
-    - Tier1 city based customers prefer Online ads.
-    - Tier2 city based customers prefer TV commercials.
+    - Tier1 city-based customers prefer Online ads.
+    - Tier2 city-based customers prefer TV commercials.
  
 ![{1E4D17F5-DEF7-46E6-9777-861C05CF5606}](https://github.com/user-attachments/assets/98ff722e-47ce-4a93-8840-bc697ec67518)
 
@@ -205,14 +205,14 @@ Chief Marketing Officer
 ## **Regional Strategy and Expansion Opportunities**
 
 ### 6.Which regions show the highest interest in organic or natural energy drinks?
-* Bangalore,Hyderabad,Mumbai and Chennai show highest  interest in organic or natural energy drinks.
-* Lucknow, Jaipur and Delhi are least intrested.
+* Bangalore,Hyderabad,Mumbai and Chennai show the highest  interest in organic or natural energy drinks.
+* Lucknow, Jaipur, and Delhi are least interested.
 
   ![{9FBED1EB-D314-458E-9132-767B9ED73D73}](https://github.com/user-attachments/assets/dee0edfd-e4ca-44a4-866e-c435591d02e1)
 
 
 ### 7.Are there underserved regions where brand awareness is low, but interest in energy drinks?
-* Bangalore,Hyderabad, Chennai and Kolkata needs more brand awareness.
+* Bangalore,Hyderabad, Chennai and Kolkata need more brand awareness.
 
   ![{8DB07EC3-84CB-48ED-BEA2-65C1C538B50E}](https://github.com/user-attachments/assets/2f121e18-1c0f-4412-8da8-5eb9b16c74d9)
 
@@ -234,28 +234,28 @@ Chief Marketing Officer
 
 
 ### 10. Which ingredients and health concerns matter most to consumers?
-* Ingredients like Caffeine and Vitamins concerns the Consumers.
-* 39% consumers concerned about presence of Caffeine and 25% of Vitamins.
+* Ingredients like Caffeine and Vitamins concern the Consumers.
+* 39% of consumers are concerned about the presence of Caffeine and 25% of Vitamins.
 
 ![{720A45A7-CBA0-4903-B37C-6E4915E91944}](https://github.com/user-attachments/assets/1945e2ba-09e3-42f7-ae86-4bd4b158f4d0)
 
 
 ### 11. What improvements are consumers looking for in existing products?
-* 30% of consumers prefer reduction of sugar content and 25% want More natural ingredients.
-* 20% of consumers wish to have Wider range of flavors.
+* 30% of consumers prefer a reduction of sugar content and 25% want More natural ingredients.
+* 20% of consumers wish to have a Wider range of flavors.
 
   ![{453178B7-0790-4699-94C4-858423C5E663}](https://github.com/user-attachments/assets/7af77846-3cb4-47e1-80cb-4de112f0df66)
 
 
 ### 12. How do perceptions and experiences with taste impact  purchases?
 * 29.57% have rated 3 for taste experience and 24.79% for rating 4.
-* Almost 70% of ratings between 3-5.
+* Almost 70% of ratings are between 3-5.
 
   ![{87850AA7-A56E-4812-A324-0D0821BE50C8}](https://github.com/user-attachments/assets/c1079766-b700-4fc3-912a-9025f55befc0)
 
 
 ### 13.Packaging preference of consumers for daily consumption?
-* 41.82% prefer Compact and portable cans and 28.30% for Innovative bottle design for daily consumption.
+* 41.82% prefer Compact and portable cans and 28.30% for Innovative bottle designs for daily consumption.
 
   ![{05294566-FC25-4400-BC11-55A8D22455E7}](https://github.com/user-attachments/assets/512a0171-c7a9-4102-8eba-de4f1899d70e)
 
@@ -267,7 +267,7 @@ Chief Marketing Officer
 
 ### 15.Which brands are currently preferred, and why?
 * Most preferable brands are Bepsi,Blue Bull,CodeX  and Cola-Coka.
-* Mostly all the brands are are prefered due to " Brand reputation ".
+* Mostly all the brands are preferred due to " Brand reputation ".
 
   ![{7A00ED7B-F34C-4526-A9A1-D75C914AFEBF}](https://github.com/user-attachments/assets/97c67bc9-17bc-4e28-9b3a-df374155f71d)
 
@@ -279,18 +279,18 @@ Chief Marketing Officer
 * Age group
     - All age group prefer "Compact and portable cans" packaging.Next to that     they prefer "Innovative bottle design" packaging.
 * Gender
-    - Male,Female and Non-binary gender people prefer "Compact and portable cans" packaging.
-    - "Innovative bottle design" packaging is second option for everyone.
+    - Male, Female and Non-binary gender people prefer "Compact and portable cans" packaging.
+    - "Innovative bottle design" packaging is the second option for everyone.
 * City
     - All cities prefer "Compact and portable cans" packaging and  "Innovative bottle design" packaging is second option for everyone.
  
 ![{B6C5935C-5B5D-41E9-B708-39CF353E494D}](https://github.com/user-attachments/assets/44d51a68-e288-4b13-9d45-1f68e33cac98)
 
 
-### 17.Is there significant interest in limited-edition packaging?
+### 17. Is there significant interest in limited-edition packaging?
 
-* 40.23% consumers are not interested in limited-edition packaging.
-* 39.46% consumers are interested in limited-edition packaging.
+* 40.23% of consumers are not interested in limited-edition packaging.
+* 39.46% of consumers are interested in limited-edition packaging.
 * 20.31 consumers are Not Sure in limited-edition packaging.
 
 
@@ -300,7 +300,7 @@ Chief Marketing Officer
 ## **Sales & Distribution Optimization**
 
 ### 18.Which purchase locations are most popular across regions?
-* Supermarkets are the most prefered purchase location across all regions followed by Online retailers and Gyms and fitness centers.
+* Supermarkets are the most preferred purchase location across all regions followed by Online retailers and Gyms and fitness centers.
 
 ![{7EE6CF61-D293-484C-AB95-3A17D5E14ADC}](https://github.com/user-attachments/assets/d169c8ec-4c05-42ac-9595-4c727bad2c38)
 
@@ -310,9 +310,9 @@ Chief Marketing Officer
 * Gender
     - Male customers are interested in organic or natural products.
 * City
-    - Bangalore, Hyderabad, Mumbai, Chennai and Pune are intrested in organic or natural products.
+    - Bangalore, Hyderabad, Mumbai, Chennai and Pune are interested in organic or natural products.
 * City Tier 
-    - Tier1 cities are intrested.
+    - Tier 1 cities are interested.
       
 ![{29DF7750-D30B-4824-9010-975FC364F87F}](https://github.com/user-attachments/assets/82f2593c-f816-4644-b3ff-ff6545a9b058)
 
@@ -320,29 +320,29 @@ Chief Marketing Officer
 * There is a significant association between marketing channels and purchase behavior.
 
 ### 21. How does brand awareness ("heard before") impact trial rates and perception?
-* 58% have Neutral and 24% have positive perception.
-* 18% have Negative perception.
+* 58% have Neutral and 24% have positive perceptions.
+* 18% have a Negative perception.
 
 ![{72626BF1-09F3-4447-AF53-2B7F9887D661}](https://github.com/user-attachments/assets/9f4ef1be-7aa0-4152-bfd2-2c3be5466fef)
 
-### 22.What are the most common consumption barriers, and how can they be addressed?
+### 22. What are the most common consumption barriers, and how can they be addressed?
 * "Not available locally" is the primary reason for not trying energy drinks.
-* Most of the people "Not intrested in energy drinks".
+* Most of  people "Not interested in energy drinks".
 * Few have "Health Concerns" on consuming energy drinks.
 
   ![{6C3E1D63-4435-4734-B03E-33FF7C9C40F9}](https://github.com/user-attachments/assets/b9d33bd0-ea97-4390-9219-df2789c9fdc6)
 
 
-### 23.How does the perception of sustainability (e.g., eco-friendly packaging) affect brand preference?
+### 23. How does the perception of sustainability (e.g., eco-friendly packaging) affect brand preference?
 * Among customers who prefer eco-friendly packaging are opting for brands like 
-Cola-Coka,Bepsi, Gangster, Bull-Bull and CodeX.
+Cola-Coka, Bepsi, Gangster, Bull-Bull and CodeX.
 
 ![{5087CA63-3480-4A86-AE3B-F4A5DC67DB6C}](https://github.com/user-attachments/assets/f588a6a2-facc-442e-84c0-f714323311f7)
 
 
 # **Recommendations**
 
-### A.What immediate improvements can we bring to the product?
+### A. What immediate improvements can we bring to the product?
 * **Reduce Sugar Content**    
     30% of consumers prefer products with lower sugar levels. Reducing sugar can address this preference.
 
@@ -355,13 +355,13 @@ Cola-Coka,Bepsi, Gangster, Bull-Bull and CodeX.
 * **Eco-Friendly Packaging**  
     Many customers prefer sustainable packaging. Transitioning to eco-friendly options can attract environmentally conscious consumers.
 
-### B.What should be the ideal price of our product?   
+### B. What should be the ideal price of our product?   
 * The ideal price range would be between 50-99.
 * **Tier-Based Pricing**  
     - Tier 1 Cities: Premium pricing due to higher consumption and brand awareness.   
     - Tier 2 Cities: Slightly lower pricing to attract price-sensitive consumers. 
 
-### C.What kind of marketing campaigns, offers, and discounts we can ?   
+### C. What kind of marketing campaigns, offers, and discounts we can ?   
 * **Campaign Themes**
     - **Health-Oriented** : Promote natural ingredients, reduced sugar, and vitamins as selling points.
 
@@ -376,7 +376,7 @@ Cola-Coka,Bepsi, Gangster, Bull-Bull and CodeX.
         - "First-Time Buyer Discounts" to encourage trials.
         - "Subscribe and Save" plans for regular consumers.
 
-### D.Who can be a brand ambassador, and why?  
+### D. Who can be a brand ambassador, and why?  
 * **Virat Kohli**  
     Known for his relentless energy and peak fitness, Virat represents passion and perseverance, making him an ideal ambassador to resonate with a younger, health-conscious audience.
 
@@ -390,7 +390,7 @@ Cola-Coka,Bepsi, Gangster, Bull-Bull and CodeX.
      Her success on the global stage and relentless stamina make her an aspirational figure, appealing to fitness enthusiasts and young achievers seeking sustained energy and focus.  
   
 
-### E.Who should be our target audience, and why?   
+### E. Who should be our target audience, and why?   
 * **Primary Audience**
 
     * Age Group: 19-30 years old, as they are the most frequent consumers.
